@@ -1,3 +1,5 @@
+> **⚠️ Warning:** This project is **archived**, no longer under active maintenance, and may contain bugs or security vulnerabilities. Use at your own risk.
+
 <p align="center"><a href="http://usewing.ml" target="_blank"><img width="125"src="https://github.com/kbrsh/wing/raw/gh-pages/img/logo.png"></a></p>
 
 <h1 align="center">Wing</h1>
